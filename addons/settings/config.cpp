@@ -6,7 +6,7 @@ class CfgPatches {
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
-            "potato_core","ace_laserPointer","ace_map","ace_zeus","ace_hearing",
+            "potato_core","ace_laserPointer","ace_map","ace_zeus",
             "ace_overheating","ace_gforces","ace_goggles","ace_frag",
             "ace_medical_ai","ace_advanced_fatigue", "ace_cookoff", "STUI_GroupHUD"
         };
